@@ -6,3 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 HTML Entities
 
 https://dev.w3.org/html5/html-author/charref
+
+CSS Reference
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
