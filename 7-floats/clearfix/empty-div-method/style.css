@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: 1px red solid;
+}
+
+.row {
+  background-color: #d1d8e0;
+}
+
+.item-1 {
+  float: left;
+  height: 300px;
+  width: 30%;
+  background-color: #4b6584;
+}
+
+
+.item-2 {
+  float: left;
+  height: 500px;
+  width: 50%;
+  background-color: #778ca3;
+}
