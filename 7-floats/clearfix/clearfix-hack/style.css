@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+.row {
+  background-color: #EAEDF0;
+}
+
+.item-1 {
+  float: left;
+  background-color: #F09A9D;
+  width: 30%;
+  height: 300px;
+}
+
+.item-2 {
+  float: left;
+  background-color: #F5CF8E;
+  width: 50%;
+  height: 500px;
+}
+
+.item-3 {
+  background-color: #D6E9FE;
+  height: 600px;
+}
+
+/* 
+  The Clearfix  method allows a container to wrap its floated children. 
+  Without a clearfix, a container will not wrap around its floated children and will collapse
+*/
+.clearfix:after {
+  content: '.';
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}

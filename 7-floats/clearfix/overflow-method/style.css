@@ -6,7 +6,9 @@
 }
 
 .row {
-  background-color: #d1d8e0;
+  /* clearfix solution */
+  overflow: hidden;
+  background-color: #EAEDF0;
 }
 
 .item-1 {
@@ -28,4 +30,3 @@
   background-color: #D6E9FE;
   height: 600px;
 }
-
