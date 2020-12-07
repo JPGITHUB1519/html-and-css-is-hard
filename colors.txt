@@ -1,0 +1,10 @@
+lights:
+
+#EAEDF0
+
+
+containers
+
+#F09A9D
+#F5CF8E
+#D6E9FE
