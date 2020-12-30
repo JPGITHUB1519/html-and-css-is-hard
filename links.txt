@@ -1,3 +1,13 @@
+Resources Page
+  http://codingheroes.io/resources/
+
+Responsive Grid System(Based on Float):
+
+  www.responsivegridsystem.com
+
+Image Overlay Technique:
+  https://spin.atomicobject.com/2015/04/07/css-multiple-backgrounds/#:~:text=The%20div%20Method,image%20to%20partially%20show%20through.
+
 HTML Elements Reference
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
