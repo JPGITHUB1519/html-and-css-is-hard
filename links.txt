@@ -25,3 +25,7 @@ Floats Good like guides:
 
 https://www.internetingishard.com/html-and-css/floats/#setup
 https://css-tricks.com/all-about-floats/
+
+HTML5 Outliner
+
+  https://gsnedders.html5.org/outliner/
